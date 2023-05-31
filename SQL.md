@@ -1,8 +1,4 @@
-# Simple Chat System v1.0 has SQL injection
-
 BUG_Author：sikii
-
-Website source address: https://www.sourcecodester.com/php/14516/simple-chat-system-using-phpmysql-and-websocket-source-code.html
 
 Vulnerability URL: /chat/ajax.php?action=read_msg
 
