@@ -1,8 +1,4 @@
-# Local Service Search Engine Management System v1.0 has stored cross-site scripting
-
 BUG_Author: sikii
-
-Website source code address: https://www.sourcecodester.com/php/14607/local-service-search-engine-management-system-using-phpmysqli-source-code.html
 
 Vulnerability File: /lssems/admin/ajax.php?action=save_area
 
